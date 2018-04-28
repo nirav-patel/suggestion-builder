@@ -5,7 +5,7 @@ import java.util.List;
 public class SuggestionBuilderDemo {
 
 	public static void main(String[] args) {
-		String[] stopWords = { "girl", "is", "a", "can", "the" };
+		String[] stopWords = { "is", "a", "can", "the" };
 		String[] tokenStream = { "The", "beautiful", "girl", "from", "the", "farmers", "market", ".", "I", "like",
 				"chewing", "gum", "." };
 
